@@ -1,2 +1,2 @@
-Hello World! This is usuualy the first line
+Hello World! This is usually the first line
 that most programming students first learn! 
